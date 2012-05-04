@@ -1,0 +1,60 @@
+</div>
+
+<script type="text/javascript">
+var currentColumnDiv = null;
+var currentColumnNumber = 0;
+var currentPage = 1;
+
+var acceptableColumnHeight = 560;
+
+var currentCabinNumber;
+var pageBreakCabins = XXXXXXXXXXXX;
+var placedSomethingInColumn = false;
+
+$(document).ready(function(){
+var schedDiv = $('#schedDivs').children()[0];
+getNewColumn();
+currentCabinNumber = $(schedDiv).attr("cabin");
+while ($('#schedDivs').children().length > 0) {
+if ( pageBreakCabins && currentCabinNumber != $(schedDiv).attr("cabin")) {
+currentCabinNumber = $(schedDiv).attr("cabin");
+appendPageBreak();
+if (currentPage % 2 == 0) {
+appendPageBreak();
+}
+}
+else if ($(currentColumnDiv).height() + $(schedDiv).height() > acceptableColumnHeight && placedSomethingInColumn) {
+if (currentColumnNumber % 4 == 0 ) {
+appendPageBreak();
+}
+else {
+getNewColumn();
+}
+}
+
+$(currentColumnDiv).append(schedDiv);
+schedDiv = $('#schedDivs').children()[0];
+placedSomethingInColumn = true;
+}
+});
+
+function getNewColumn() {
+placedSomethingInColumn = false;
+currentColumnNumber++;
+currentColumnDiv = $('#col0').clone().attr("id","col" + currentColumnNumber).css("display", "block");
+$('#total').append(currentColumnDiv);
+}
+
+function appendPageBreak() {
+while (currentColumnNumber % 4 != 0 ) {
+getNewColumn();
+}
+currentPage++;
+var newpage = $('#pageClear0').clone().attr("id", null).css("display", "block");
+$('#total').append(newpage);
+getNewColumn();
+}
+</script>
+
+</body>
+</html>

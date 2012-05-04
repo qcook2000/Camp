@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Camp.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>ParentPhone.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>1D6058900D05DD3D006BFB54</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CF207E3F135689B9000DD6CD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CF207E5E135689BA000DD6CD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CF85A82D1357E56D0073C55B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CF93FDB0135808CA00FD7888</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CF93FE1C1358094500FD7888</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CFC10A8C135800D800FD1931</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CFC10AAD1358018E00FD1931</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CFC10B341358049F00FD1931</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

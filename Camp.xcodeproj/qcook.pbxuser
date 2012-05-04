@@ -1,0 +1,303 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* CampAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1017, 674}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 821}";
+		};
+	};
+	1D3623250D0F684500981E51 /* CampAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 923}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1935}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Camp */ = {
+		activeExec = 0;
+		executables = (
+			CF745D23131076C500481B9B /* Camp */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = CF745D23131076C500481B9B /* Camp */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Camp */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Camp */,
+		);
+		codeSenseManager = CF745D44131076D400481B9B /* Code sense */;
+		executables = (
+			CF745D23131076C500481B9B /* Camp */,
+			CF9A5BD41360AD420032170F /* ParentPhone */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					839,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 325105629;
+			PBXWorkspaceStateSaveDate = 325105629;
+		};
+		perUserProjectItems = {
+			CF9A5BE71360AD6A0032170F /* PBXTextBookmark */ = CF9A5BE71360AD6A0032170F /* PBXTextBookmark */;
+			CF9A5CA31360B7F50032170F /* PBXTextBookmark */ = CF9A5CA31360B7F50032170F /* PBXTextBookmark */;
+			CF9A5CA41360B7F50032170F /* PBXTextBookmark */ = CF9A5CA41360B7F50032170F /* PBXTextBookmark */;
+			CF9A5CA51360B7F50032170F /* PBXBookmark */ = CF9A5CA51360B7F50032170F /* PBXBookmark */;
+			CF9A5CA61360B7F50032170F /* PBXTextBookmark */ = CF9A5CA61360B7F50032170F /* PBXTextBookmark */;
+		};
+		sourceControlManager = CF745D43131076D400481B9B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	9D24B7AE12739ED2004D9462 /* RootViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1363, 3991}}";
+			sepNavSelRange = "{10385, 261}";
+			sepNavVisRange = "{8330, 2402}";
+		};
+	};
+	9D24B7AF12739ED2004D9462 /* DetailViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 697}}";
+			sepNavSelRange = "{552, 9}";
+			sepNavVisRange = "{0, 930}";
+		};
+	};
+	9D24B7B012739ED2004D9462 /* DetailViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1510, 1755}}";
+			sepNavSelRange = "{956, 0}";
+			sepNavVisRange = "{40, 1343}";
+		};
+	};
+	9D24B8D51273E6C8004D9462 /* EntityListViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 720}}";
+			sepNavSelRange = "{467, 0}";
+			sepNavVisRange = "{0, 1836}";
+		};
+	};
+	9D24B8D61273E6C8004D9462 /* EntityListViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1619, 7592}}";
+			sepNavSelRange = "{9925, 25}";
+			sepNavVisRange = "{9399, 998}";
+		};
+	};
+	9D24B96712740E51004D9462 /* EntityListStyleOption.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1034, 745}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 602}";
+		};
+	};
+	9D24BC8712754B77004D9462 /* MOAttributeTableCell.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1297, 745}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 730}";
+		};
+	};
+	9D24BC8812754B77004D9462 /* MOAttributeTableCell.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1297, 745}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1067}";
+		};
+	};
+	9D24BCAF127555C7004D9462 /* DateFieldCell.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1027, 745}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 813}";
+		};
+	};
+	9D74FFEF12D156A200043464 /* DateFieldCell.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1258, 1339}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2113}";
+		};
+	};
+	CF745D23131076C500481B9B /* Camp */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Camp;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	CF745D43131076D400481B9B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	CF745D44131076D400481B9B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	CF93FE1C1358094500FD7888 /* ParentPhone */ = {
+		activeExec = 0;
+		executables = (
+			CF9A5BD41360AD420032170F /* ParentPhone */,
+		);
+	};
+	CF93FE311358094600FD7888 /* ParentPhoneViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1017, 767}}";
+			sepNavSelRange = "{247, 1576}";
+			sepNavVisRange = "{153, 1670}";
+		};
+	};
+	CF93FE321358094600FD7888 /* ParentPhoneViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2476, 4173}}";
+			sepNavSelRange = "{9469, 607}";
+			sepNavVisRange = "{6740, 3740}";
+		};
+	};
+	CF9A5BD41360AD420032170F /* ParentPhone */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ParentPhone;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	CF9A5BE71360AD6A0032170F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CF93FE311358094600FD7888 /* ParentPhoneViewController.h */;
+		name = "ParentPhoneViewController.h: 11";
+		rLen = 1576;
+		rLoc = 247;
+		rType = 0;
+		vrLen = 1670;
+		vrLoc = 153;
+	};
+	CF9A5CA31360B7F50032170F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CF93FE321358094600FD7888 /* ParentPhoneViewController.m */;
+		name = "ParentPhoneViewController.m: 187";
+		rLen = 607;
+		rLoc = 9469;
+		rType = 0;
+		vrLen = 3740;
+		vrLoc = 6740;
+	};
+	CF9A5CA41360B7F50032170F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* CampAppDelegate.h */;
+		name = "CampAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 821;
+		vrLoc = 0;
+	};
+	CF9A5CA51360B7F50032170F /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1D3623250D0F684500981E51 /* CampAppDelegate.m */;
+	};
+	CF9A5CA61360B7F50032170F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* CampAppDelegate.m */;
+		name = "CampAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1935;
+		vrLoc = 0;
+	};
+	CFB1486C134006AF005ED772 /* CourseTableViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 697}}";
+			sepNavSelRange = "{324, 0}";
+			sepNavVisRange = "{0, 389}";
+		};
+	};
+	CFB1486D134006AF005ED772 /* CourseTableViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1083, 1573}}";
+			sepNavSelRange = "{960, 0}";
+			sepNavVisRange = "{51, 1873}";
+		};
+	};
+	CFB1487313400702005ED772 /* CourseTableCell.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 720}}";
+			sepNavSelRange = "{313, 0}";
+			sepNavVisRange = "{0, 333}";
+		};
+	};
+	CFB1487413400702005ED772 /* CourseTableCell.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 720}}";
+			sepNavSelRange = "{201, 0}";
+			sepNavVisRange = "{0, 745}";
+		};
+	};
+}

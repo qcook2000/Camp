@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSManagedObjectModel_CurrentVersionName</key>
+	<string>Camp</string>
+	<key>NSManagedObjectModel_VersionHashes</key>
+	<dict>
+		<key>Camp</key>
+		<dict>
+			<key>Area</key>
+			<data>
+			OvcDHJeuG9tYhfunn/5eGnG8mWlesyX61Ubww3OwGCI=
+			</data>
+			<key>Cabin</key>
+			<data>
+			lKSlNDBVDwMJN48ih1C820xZtEW1Hcn917XNJMnfhcQ=
+			</data>
+			<key>Camper</key>
+			<data>
+			dV370KPkdXq0D0RNXW+zE5IoG3F9c/qrw6t1S2PZEls=
+			</data>
+			<key>Counselor</key>
+			<data>
+			/eiXMMr5OtNRBNdvJ0Hs0x9zfB7KPZSraCxr7amCuJE=
+			</data>
+			<key>Course</key>
+			<data>
+			BvIp76LNTVyFBWDtXPDxdcIXvTCcWWSW0l0stSaX7yE=
+			</data>
+			<key>Location</key>
+			<data>
+			YjyLWEb8TlnyOIJAl8LRDTA4aij3eK7tLGulykFy9Zc=
+			</data>
+			<key>Person</key>
+			<data>
+			rLLGmdvn7U9wZYFFVjrJUMlkvmJzFRoCBOL5SrJR1us=
+			</data>
+			<key>QCThing</key>
+			<data>
+			X79QXgOz4A0e6uRMh+Kl/L5lBgWUna8o3I1wEunePNw=
+			</data>
+		</dict>
+	</dict>
+</dict>
+</plist>
